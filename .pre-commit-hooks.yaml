@@ -1,0 +1,7 @@
+-   id: wotan
+    name: wotan
+    description: 'Wotan is a pluggable TypeScript and JavaScript linter'
+    entry: npx wotan
+    language: node
+    files: '.*\.[vue|ts]$'
+    verbose: true

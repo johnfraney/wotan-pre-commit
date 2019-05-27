@@ -1,0 +1,17 @@
+{
+  "name": "wotan-pre-commit",
+  "version": "0.1.0",
+  "description": "pre-commit hook for Wotan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Franey <johnfraney@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fimbul/valtyr": "^0.20.0",
+    "@fimbul/ve": "^0.18.0",
+    "@fimbul/wotan": "^0.20.0",
+    "typescript": "^3.4.5"
+  }
+}
